@@ -66,11 +66,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Khyati-Kapil&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
----
 
-<div align="center">
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-</div>
